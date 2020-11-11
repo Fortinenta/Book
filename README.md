@@ -1,3 +1,12 @@
+Nama    : Priomas Yuliono
+NIM     : 185150700111026
+
+Projek 5 membuat projek BookApp dengan mengambil data dari databse yang sudah dibuat dengan menggunakan migrate. 
+Projek ini hanya memiliki fungsi untuk menampilkan semua data dan juga menampilkan data berupa id.
+
+
+
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
